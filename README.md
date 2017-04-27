@@ -29,3 +29,8 @@ Once the flashing is done wait a minute to make sure that everything is good.
 
 java -jar Esplorer.jar
 
+# Using a connected device
+
+You will want to read the documents to set up your wifi as saved settings that auto connect to your wifi hotspot.
+
+After doing this upload the init.lua script using the upload script to upload it to the device as this filename. After that the script will run whenever the device is powered up and has connectivity. It displays a pattern sent to it for one second and then reverts to a rainbow. You will need to modify the SERVER variable to point to your server that is running the companion node.js app that can be found at https://github.com/lgleasain/mobile_dev_plus_test_2017_nodejs . Instructions can be found on how to send paterns to the device over there.

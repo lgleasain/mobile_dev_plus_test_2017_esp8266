@@ -38,6 +38,10 @@ java -jar Esplorer.jar
 * [3D printed Case](https://www.thingiverse.com/thing:1128026/#files)
 * portable battery ![](https://i.ebayimg.com/images/i/182463930596-0-0/s-l140/p.jpg) ![](https://assets.pcmag.com/media/images/530904-radioshack-lipstick-portable-power-bank.jpg?thumb=y&width=333&height=245)
 
+## Wiring Diagram
+
+![](https://raw.githubusercontent.com/lgleasain/mobile_dev_plus_test_2017_esp8266/master/wiring_diagram.png)
+
 # License/Copyright
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
